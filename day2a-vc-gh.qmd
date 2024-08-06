@@ -1,0 +1,8 @@
+---
+title: "GitHub Practice"
+author: "Kaiju"
+format: html
+---
+ # if we use "usethis::" instead of "library()" to call the package we want we can avoid confusing library for other functions
+ # library() also works, though
+ 
